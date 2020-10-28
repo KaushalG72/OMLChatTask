@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976370080204",
+    "firebase_url": "https://one-more-light-chat-task.firebaseio.com",
+    "project_id": "one-more-light-chat-task",
+    "storage_bucket": "one-more-light-chat-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976370080204:android:72a8a0205dcf6631f52569",
+        "android_client_info": {
+          "package_name": "com.sunilkumar.omlchattask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976370080204-ri8dppoe608f6ck7laj00a2mh8alq0u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunilkumar.omlchattask",
+            "certificate_hash": "0c3daaa2b3e4fa1eda44389388c8c3830571d2f5"
+          }
+        },
+        {
+          "client_id": "976370080204-ilp97t7jghsh8nicm1to2h2bk8q8t5n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHKmflfk7304Uu3ByGEGiYkiTzSiuntXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976370080204-ilp97t7jghsh8nicm1to2h2bk8q8t5n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
